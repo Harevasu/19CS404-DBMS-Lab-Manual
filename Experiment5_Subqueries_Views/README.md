@@ -159,3 +159,4 @@ DROP VIEW view_name;
 
 ## RESULT
 Thus, the SQL queries to implement subqueries and views have been executed successfully.
+ 
